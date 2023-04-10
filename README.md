@@ -1,5 +1,7 @@
 # Hi, I'm Alejo Fariña! 👋
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
 I’m a Full Stack Developer with knowledge in: JavaScript(ES6), React, Redux, Advanced DOM and CSS, SASS, LESS, Tailwind CSS, Node JS, Express, Jest, postgreSQL, MongoDB and Git. 
 I've worked in individual and group projects as freelancer.
 
