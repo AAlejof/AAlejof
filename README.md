@@ -1,16 +1,29 @@
-### Hi, my name is Alejo Fariña
+# Hi, I'm Alejo Fariña! 👋
 
-<!--
-**AAlejof/AAlejof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with experience in JavaScript(ES6), React, Redux, Advanced DOM and CSS, SASS, LESS, Tailwind CSS, Node JS, Express, Jest, PostgreSQL, MongoDB, and Git. I've worked on individual and group projects as a freelancer.
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (ES6)
+- React
+- Redux
+- Advanced DOM and CSS
+- SASS
+- LESS
+- Tailwind CSS
+- Node.js
+- Express
+- Jest
+- PostgreSQL
+- MongoDB
+- Git
+
+## Projects
+
+- [Project 1](https://github.com/user/project1) - Description of project 1.
+- [Project 2](https://github.com/user/project2) - Description of project 2.
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/alejo-fariña/)
+- [Email](mailto:alejofarina@gmail.com)
