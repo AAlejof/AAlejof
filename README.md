@@ -48,4 +48,4 @@ I believe that my experiences have given me a great contribution in teamwork, an
 - [Email](mailto:adrianalejof@gmail.com)
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aalejof&show_icons=true&count_private=true&theme=github_dark" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aalejof&show_icons=true&count_private=true&theme=github_dark" align="center" /></div> 
