@@ -35,7 +35,7 @@ I believe that my experiences have given me a great contribution in teamwork, an
 
 ## Projects
 
-- [Confort Women - Manyoung Foundation ](https://github.com/AAlejof/WWII-ComfortWomen) - PERN SPA for the Manyoung Foundation's "WWII Confort Women" page.
+- [Comfort Women - Manyoung Foundation ](https://github.com/AAlejof/WWII-ComfortWomen) - PERN SPA for the Manyoung Foundation's "WWII Confort Women" page.
 
 - [Wedding App](https://github.com/AAlejof/HeliKi) - MERN SPA that allows to RSVP wedding invitations and have valuable information about the hosting city for foreign people.
 
