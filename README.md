@@ -35,7 +35,11 @@ I believe that my experiences have given me a great contribution in teamwork, an
 
 ## Projects
 
-- [Complex Project](https://github.com/complexgym/PF-Complex-Gym-JS) - Complex Gym is a SPA that allows gym owners to manage their gym and keep track of their members.
+- [Confort Women - Manyoung Foundation ](https://github.com/AAlejof/WWII-ComfortWomen) - PERN SPA for the Manyoung Foundation's "WWII Confort Women" page.
+
+- [Wedding App](https://github.com/AAlejof/HeliKi) - MERN SPA that allows to RSVP wedding invitations and have valuable information about the hosting city for foreign people.
+
+- [Complex Project](https://github.com/complexgym/PF-Complex-Gym-JS) - Complex Gym is a PERN SPA that allows gym owners to manage their gym and keep track of their members.
 
 - [Henry PI - Dogs](https://github.com/AAlejof/Dogs-ProyectoIndividualHenry) - Individual Project for the Henry's Full Stack Developer career.
 
