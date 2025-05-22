@@ -19,6 +19,7 @@ I believe that my experiences have given me a great contribution in teamwork, an
 - Advanced DOM and CSS
 - SASS
 - LESS
+- Bootstrap
 - Tailwind CSS
 - Node.js
 - Express
